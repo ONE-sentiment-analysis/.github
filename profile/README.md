@@ -2,13 +2,13 @@
 
 ### Equipe 404-feelings-not-found
 
-AN|Caian Matos Garibaldi Pires|Cauan Henrique Sanches Araujo|Gabriel Gonçalves
+Andrey Nagatani|Caian Matos Garibaldi Pires|Cauan Henrique Sanches Araujo|Gabriel Gonçalves
 :---:|:---:|:---:|:---:
 <img src="https://avatars.githubusercontent.com/u/22266171?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/181674270?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/42594852?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/113186578?v=4" style="height: 150px; border-radius: 50%;">
 
 Giovanna  Felicio|Guilherme Moraes de Lira|Pablo Lima|Sergio de Oliveira Burlamaqui Junior
 :---:|:---:|:---:|:---:
-<img src="https://avatars.githubusercontent.com/u/22266171?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/127672759?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/148692557?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/85375143?v=4" style="height: 150px; border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/124411202?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/127672759?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/148692557?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/85375143?v=4" style="height: 150px; border-radius: 50%;">
 
 
 ### Setor de negócio
