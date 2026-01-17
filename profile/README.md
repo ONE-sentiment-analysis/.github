@@ -1,4 +1,4 @@
-![banner](resources/img/banner.jpeg)
+![banner](https://raw.githubusercontent.com/ONE-sentiment-analysis/.github/refs/heads/main/profile/resources/img/banner.jpeg)
 
 # ONE-sentiment-analysis
 
