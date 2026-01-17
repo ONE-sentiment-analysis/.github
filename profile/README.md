@@ -1,5 +1,42 @@
+![banner](resources/img/banner.jpeg)
 
 # ONE-sentiment-analysis
+
+### Sobre
+Projeto desenvolvido para o **[Hackaton da ORACLE ONE](https://www.oracle.com/br/education/oracle-next-education/)**. Esta aplicação, construída com Java Spring Boot, Python e Streamlit, tem como objetivo realizar analise de sentimento em textos fornecidos por um usuario.
+
+### O que é este projeto
+Imagine que uma empresa recebe milhares de comentários de clientes todos os dias. Ler um por um para saber se o cliente está feliz ou insatisfeito é impossível.
+
+Este sistema é uma solução inteligente que automatiza esse trabalho. Ele atua como um "cérebro" que lê os textos, entende a emoção por trás deles e classifica instantaneamente se o comentário é Positivo, Negativo ou Neutro.
+
+## O que ele faz por você?
+
+### 1. Análise Instantânea
+
+Você envia uma frase ou comentário (como "Adorei o produto!") e o sistema responde na hora qual é o sentimento e com qual nível de certeza (probabilidade).
+
+### 2. Processamento em Massa (Lote)
+
+Tem uma planilha com 10.000 avaliações de produtos? Sem problemas.
+
+* Você envia o arquivo com todos os comentários.
+* O sistema processa tudo automaticamente.
+* Ele devolve um relatório organizado (em Excel ou CSV) com todas as análises prontas.
+
+### 3. Segurança Total
+
+Sabemos que dados de clientes são sensíveis. Por isso, o sistema conta com:
+
+* **Cadastro seguro:** Apenas pessoas autorizadas podem entrar.
+* **Proteção de dados:** As senhas e informações são criptografadas (codificadas) para garantir privacidade total.
+
+## Por que é inovador?
+
+Este projeto não é apenas um "leitor de texto". Ele conecta uma interface segura e robusta a um modelo avançado de Inteligência Artificial.
+
+* **Resiliente:** Se a Inteligência Artificial demorar para responder, o sistema não trava; ele sabe lidar com instabilidades para que você nunca perca seu trabalho.
+* **Organizado:** Mantém um histórico de tudo o que foi analisado.
 
 ### A nossa equipe 404-feelings-not-found
 
