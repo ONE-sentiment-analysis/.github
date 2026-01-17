@@ -38,22 +38,16 @@ Este projeto não é apenas um "leitor de texto". Ele conecta uma interface segu
 * **Resiliente:** Se a Inteligência Artificial demorar para responder, o sistema não trava; ele sabe lidar com instabilidades para que você nunca perca seu trabalho.
 * **Organizado:** Mantém um histórico de tudo o que foi analisado.
 
-### A nossa equipe 404-feelings-not-found
-
-Andrey Nagatani|Caian Matos Garibaldi Pires|Cauan Henrique Sanches Araujo
-:---:|:---:|:---:
-<img src="https://avatars.githubusercontent.com/u/22266171?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/181674270?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/42594852?v=4" style="height: 150px; border-radius: 50%;">
-![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Finatagan)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fcaianmatos)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FCauan77)
-![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=www.linkedin.com%2Fin%2Fandrey-nagatani)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaian-matos%2F)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcauan-henrique%2F)|
-
-Giovanna  Felicio|Pablo Lima|Sergio de Oliveira Burlamaqui Junior
-:---:|:---:|:---:
-<img src="https://avatars.githubusercontent.com/u/124411202?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/148692557?v=4" style="height: 150px; border-radius: 50%;">|<img src="https://avatars.githubusercontent.com/u/85375143?v=4" style="height: 150px; border-radius: 50%;">
-![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FImgih)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fstevopablo)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FSergioBurlamaK)
-![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiovanna-felicio-78152a278%2F)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergioburlamaqui%2F)
-
 
 ### O nosso projeto
+
+#####  O "Gerente do Restaurante"
+
+Imagine este software como um restaurante de alta gastronomia:
+
+1. **O Cliente (Você):** Faz o pedido (envia o texto).
+2. **O Garçom (API Java):** Recebe o pedido, verifica se você tem cadastro e organiza a solicitação. Ele não cozinha, mas garante que tudo flua bem.
+3. **O Chef Especialista (API Python):** É quem realmente coloca a mão na massa. Ele fica na cozinha (isolado) e é o único que sabe "provar" o prato e dizer se o sentimento é doce (positivo) ou amargo (negativo).
 
 TL:DR -> Criar uma API simples que recebe textos (comentários, avaliações ou tweets), aplica um modelo de Data Science para classificar o sentimento (Atrasado / Pontual → neste caso: Positivo / Neutro / Negativo ou binário Positivo / Negativo) e retorna o resultado em formato JSON, permitindo que aplicações consumam essa predição automaticamente.
 
@@ -62,23 +56,7 @@ Para mais detalhes acesse a pagina do projeto:
 
 ### Tecnologias utilizadas
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ### Como desenvolvemos este projeto
@@ -94,8 +72,23 @@ A equipe de Data Science se dedicou a coleta, tratamento e limpeza dos dados ini
 ### Onde encontrar o projeto
 Ao todo o projeto esta distruibuido em 3 repositorios:
 
-Front-end: https://github.com/ONE-sentiment-analysis/BIA_frontend_python
+Front-end: [https://github.com/ONE-sentiment-analysis/BIA_frontend_python](https://github.com/ONE-sentiment-analysis/BIA_frontend_python)
 
-Back-end Java: https://github.com/ONE-sentiment-analysis/Back-end-structure-sentiment-analisys
+Back-end Java: [https://github.com/ONE-sentiment-analysis/Back-end-structure-sentiment-analisys](https://github.com/ONE-sentiment-analysis/Back-end-structure-sentiment-analisys)
 
-Back-end Python: https://github.com/ONE-sentiment-analysis/One_sentiment_analysis_model
+Back-end Python: [https://github.com/ONE-sentiment-analysis/One_sentiment_analysis_model](https://github.com/ONE-sentiment-analysis/One_sentiment_analysis_model)
+
+
+### A nossa equipe 404-feelings-not-found
+
+Andrey Nagatani|Caian Matos Garibaldi Pires|Cauan Henrique Sanches Araujo
+:---:|:---:|:---:
+![andrey](resources/avatar/01_120.jpeg)|![caian](resources/avatar/02_120.jpeg)|![cauan](resources/avatar/03_120.jpeg)
+![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Finatagan)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fcaianmatos)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FCauan77)
+![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=www.linkedin.com%2Fin%2Fandrey-nagatani)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaian-matos%2F)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcauan-henrique%2F)|
+
+Giovanna  Felicio|Pablo Lima|Sergio de Oliveira Burlamaqui Junior
+:---:|:---:|:---:
+![giovana](resources/avatar/04_120.jpeg)|![pablo](resources/avatar/05_120.jpeg)|![sergio](resources/avatar/05_120.jpeg)
+![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FImgih)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fstevopablo)|![Static Badge](https://img.shields.io/badge/Github-Github?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2FSergioBurlamaK)
+![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiovanna-felicio-78152a278%2F)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue)|![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergioburlamaqui%2F)
